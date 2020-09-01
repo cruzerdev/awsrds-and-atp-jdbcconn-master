@@ -11,6 +11,7 @@ public class ATPJson {
 
 
 
+	//Create the ATP Database in Oracle Cloud and Download the wallet.
 	  final static String DB_URL=   "jdbc:oracle:thin:@covaxine_high?TNS_ADMIN=C:\\Users\\devanshug\\Downloads\\Wallet_covaxine";
 //	final static String DB_URL=   "jdbc:oracle:thin:@adb.oraclecloud.com:1522/covid19";
 //	final static String DB_URL=   "jdbc:oracle:thin:@tcps://joxwp8rwsuxqees-covid19.adb.ap-mumbai-1.oraclecloudapps.com";//_high.adb.oraclecloud.com?oracle.net.ssl_server_cert_dn=\"CN=adb.ap-mumbai-1.oraclecloud.com,OU=Oracle ADB INDIA,O=Oracle Corporation,L=Redwood City,ST=California,C=US\"
